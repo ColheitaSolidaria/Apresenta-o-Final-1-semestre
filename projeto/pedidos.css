@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    background-color: #e8cf9c;
+}
+#n3{
+    margin: 0%;
+    justify-content: left;
+    
+}
+#casinha{
+    position: absolute;
+    margin-top: -5%;
+    margin-left: 90%;
+}
+#h1p{
+    text-align: left;
+    background-color: #F6C973;
+    border: 5px solid #C1554C;
+    padding: 20px;
+}
+#cxa{
+    background-color: whitesmoke;
+    border: 5px solid black;
+    border-radius: 20px;
+    padding: 60px;
+    margin: 20px;
+}
+
+#pp2{
+    font-size: 1.5em;
+    text-align: left;
+    margin-top: -3%;
+}
+p{
+    text-align: center;
+    font-weight: bold;
+}
+#pp{
+    text-align: left;
+}
+.h2{
+    position: absolute;
+    margin: -5% 35%;
+    text-align: left;
+    width: 100%;
+}
+
+.local{
+    position: absolute;
+    margin-top: -8%;
+    margin-left: 145%;
+}
+#local1{
+    position: absolute;
+    margin-top: -10%;
+    margin-left: 175%;
+}
+.button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #276772; 
+    color: white;
+    border: none;
+    border-radius: 20px;
+    margin-right: 10px; 
+    display: block;
+    margin-top: -6%;
+    margin-left: 80%;
+}
+
+
+.procrastinateButton {
+    background-color: #a50000; 
+    margin-top: -3.2%;
+    margin-left: 79%;
+}
+
+.section {
+    margin-bottom: 20px; 
+}
+

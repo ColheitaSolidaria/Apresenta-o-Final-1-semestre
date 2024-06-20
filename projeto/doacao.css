@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    background-color: #e8cf9c;
+}
+#n3{
+    margin: 0%;
+    justify-content: left;
+    
+}
+#casinha{
+    position: absolute;
+    margin-top: -5%;
+    margin-left: 90%;
+}
+#h1p{
+    text-align: left;
+    background-color: #F6C973;
+    border: 5px solid #C1554C;
+    padding: 20px;
+}
+#cxa{
+    background-color: whitesmoke;
+    border: 5px solid black;
+    border-radius: 20px;
+    padding: 50px;
+    margin: 20px;
+}
+
+#pp2{
+    font-size: 1.5em;
+    text-align: left;
+    margin-top: -1%;
+}
+p{
+    text-align: center;
+    font-weight: bold;
+}
+#pp{
+    text-align: left;
+}
+.h2{
+    position: absolute;
+    margin: -5% 35%;
+    text-align: left;
+    width: 100%;
+}
+
